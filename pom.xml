@@ -2,14 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.MasonGobat</groupId>
+  <groupId>io.github.wonsunahn</groupId>
   <artifactId>supplementary-exercise-4-ci-cd-pipelines-MasonGobat</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>supplementary-exercise-4-ci-cd-pipelines-MasonGobat</name>
+  <name>cs1632-cicd-junit</name>
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
-  <url>https://github.com/MasonGobat</url>
+  <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
 
   <licenses>
     <license>
@@ -20,8 +20,8 @@
 
   <developers>
     <developer>
-      <name>Mason Gobat</name>
-      <email>mng28@pitt.edu</email>
+      <name>Wonsun Ahn</name>
+      <email>wahn@pitt.edu</email>
       <organization>University of Pittsburgh</organization>
       <organizationUrl>https://www.pitt.edu/</organizationUrl>
     </developer>
@@ -37,7 +37,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-MasonGobat</url>
+      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
     </repository>
   </distributionManagement>
   

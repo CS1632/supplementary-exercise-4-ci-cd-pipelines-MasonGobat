@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>supplementary-exercise-4-ci-cd-pipelines-MasonGobat</artifactId>
+  <artifactId>supplementary-exercise-4-ci-cd-pipelines-masongobat</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
@@ -37,7 +37,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-MasonGobat</url>
+      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-masongobat</url>
     </repository>
   </distributionManagement>
   

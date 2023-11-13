@@ -7,9 +7,9 @@
   <version>1.0</version>
   <packaging>jar</packaging>
 
-  <name>cs1632-cicd-junit</name>
+  <name>supplementary-exercise-4-ci-cd-pipelines-MasonGobat</name>
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
-  <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
+  <url>https://github.com/MasonGobat</url>
 
   <licenses>
     <license>

@@ -20,8 +20,8 @@
 
   <developers>
     <developer>
-      <name>Wonsun Ahn</name>
-      <email>wahn@pitt.edu</email>
+      <name>Mason Gobat</name>
+      <email>mng28@pitt.edu</email>
       <organization>University of Pittsburgh</organization>
       <organizationUrl>https://www.pitt.edu/</organizationUrl>
     </developer>
@@ -37,7 +37,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-wonsunahn</url>
+      <url>https://maven.pkg.github.com/CS1632/supplementary-exercise-4-ci-cd-pipelines-MasonGobat</url>
     </repository>
   </distributionManagement>
   
